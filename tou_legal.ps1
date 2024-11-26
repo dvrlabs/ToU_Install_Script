@@ -1,5 +1,5 @@
 # Version
-# 1.0.0
+# 1.0.1
 # Made with love by:
 # https://github.com/dvrlabs
 
