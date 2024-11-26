@@ -5,5 +5,5 @@
 1. Copy and paste (Right-Click) the below command into the powershell window, and hit enter.
 
 ```powershell
- iwr https://raw.githubusercontent.com/dvrlabs/ToU_Install_script/main/tou_legal.ps1 -UseBasicParsing | iex
+ iwr https://raw.githubusercontent.com/dvrlabs/ToU_Install_script/main/tou_steam.ps1 -UseBasicParsing | iex
 ```
