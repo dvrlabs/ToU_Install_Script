@@ -201,6 +201,7 @@ if (Test-Path -Path $exePath) {
 }
 
 Write-Host "Script complete."
+Remove-Item -Path $steamCmdScriptPath -Force
 
 # Step 5: Download the latest release of Town Of Us
 
